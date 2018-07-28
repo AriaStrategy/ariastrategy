@@ -1,2 +1,0 @@
-# ariastrategy
-Aria Strategy Website
